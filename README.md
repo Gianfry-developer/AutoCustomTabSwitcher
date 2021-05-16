@@ -8,3 +8,7 @@ I was using Debian 8 with:
 After you get the add-on you might set-up the key you want to use to go to next tab.
 I used _'F1'_ because _in my use case_ ctrl and alt doesn't work.
 - **Package** : xdotool _**version**_ 1:3.20140805.1-2
+
+# Run
+To run the scrip you might write:
+/bin/bash [path file 'SwitchTabs.sh']
