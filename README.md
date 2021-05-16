@@ -10,5 +10,11 @@ I used _'F1'_ because _in my use case_ ctrl and alt doesn't work.
 - **Package** : xdotool _**version**_ 1:3.20140805.1-2
 
 # Run
-To run the scrip you might write:
-/bin/bash [path file 'SwitchTabs.sh']
+To run the scrip you might write:<br>
+/bin/bash [path file 'SwitchTabs.sh']<br>
+and press enter.
+
+# Behavior
+After you press enter you might select the application (i click on firefox window).<br>
+After this the script will send comand to app. If you change app focus, the comand will be send to the new focus.<br>
+I'll change this behavior.
